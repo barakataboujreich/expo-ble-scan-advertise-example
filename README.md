@@ -2,8 +2,10 @@
 Expo example for ble scanning and advertising
 
 ## Getting started
-`npm install react-native-ble-advertise`
-`npm install --save react-native-ble-manager`
+```
+npm install react-native-ble-advertise
+npm install --save react-native-ble-manager
+```
 
 ## EAS Setup
 sign up at https://expo.dev/signup
